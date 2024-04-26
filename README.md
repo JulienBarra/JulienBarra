@@ -23,8 +23,6 @@ Hello world!
 I'm student in a French bootcamp, La Capsule. I will be Fullstack JS Developer : <br>
 🚀  Next.js / Redux / MongoDB / Express 🚀
 
-- 🔭 &nbsp; **I am passionate and happy as a Web Developer**
-
 <br>
 
 ## 🔧 Languages & Tools
