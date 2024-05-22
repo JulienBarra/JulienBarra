@@ -20,7 +20,7 @@ Hello world!
 
 ## About me
 
-I'm student in a French bootcamp, La Capsule. I will be Fullstack JS Developer : <br>
+I'm student in a French bootcamp, La Capsule and I'm futur Epitech student ! I will be Fullstack JS Developer : <br>
 🚀  Next.js / Redux / MongoDB / Express 🚀
 
 <br>
